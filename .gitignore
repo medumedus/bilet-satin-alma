@@ -1,0 +1,15 @@
+# IDE
+.vscode/
+.idea/
+
+# env
+.env
+
+# PHP / composer 
+vendor/
+
+# runtime
+src/storage/*.sqlite
+src/storage/*.db
+src/storage/*.sqlite3
+src/storage/*.log
